@@ -1,5 +1,0 @@
-com.example.contar.mobile
-drawable ic_launcher_foreground
-string app_name
-string mobile_title
-style Theme_WaterReminder
