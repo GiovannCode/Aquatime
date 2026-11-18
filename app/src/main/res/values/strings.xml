@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Water Reminder</string>
+    <string name="wear_app_title">Mi Agua 💧</string>
+    <string name="add_glass">+1 Vaso</string>
+    <string name="remove_glass">-1 Vaso</string>
+    <string name="daily_goal">Meta diaria</string>
+    <string name="glasses_format">%1$d / %2$d vasos</string>
+    <string name="goal_percent_format">%1$d%% de tu meta diaria</string>
+    <string name="screen_main">Inicio</string>
+    <string name="screen_settings">Configuración</string>
+    <string name="screen_history">Historial</string>
+    <string name="settings_goal_title">Meta de Agua</string>
+    <string name="settings_reminders_title">Recordatorios</string>
+    <string name="settings_reminders_enabled">Notificaciones activas</string>
+    <string name="settings_reminders_disabled">Notificaciones pausadas</string>
+    <string name="settings_interval_title">Frecuencia</string>
+    <string name="settings_interval_format">Cada %1$d min</string>
+    <string name="reset_counter">Reiniciar contador</string>
+    <string name="test_notification">Probar notificación</string>
+    <string name="synced_with_phone">Sincronizado con celular</string>
+    <string name="not_synced">Sin sincronización</string>
+    <string name="notification_title">💧 ¡Hora de tomar agua!</string>
+    <string name="notification_content">Es momento de beber un vaso de agua para alcanzar tu meta diaria.</string>
+</resources>
